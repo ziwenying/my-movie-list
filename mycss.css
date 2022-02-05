@@ -1,0 +1,48 @@
+#search-form {
+  position: relative;
+}
+
+.fa-bars {
+  position: absolute;
+  top: 9px;
+  right: 15px;
+}
+
+.fa-bars:hover {
+  color: rgb(175, 175, 175);
+}
+
+.fa-th {
+  position: absolute;
+  top: 9px;
+  right: 45px;
+}
+
+.fa-th:hover {
+  position: absolute;
+  top: 9px;
+  right: 45px;
+  color: rgb(175, 175, 175);
+}
+
+.right {
+  position: relative;
+}
+
+.right-list1 {
+  position: absolute;
+  right: 210px;
+}
+
+.right-list2 {
+  position: absolute;
+  right: 160px;
+}
+
+.list-group-item {
+  height: 55px;
+}
+
+.list-group-item {
+  font-size: 24px;
+}
